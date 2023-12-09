@@ -1,4 +1,3 @@
-Bien sûr, voici le contenu du README pour votre projet Fortnite Downloader, entièrement formaté en Markdown :
 
 # Téléchargeur Fortnite
 
@@ -23,7 +22,7 @@ Le Téléchargeur Fortnite est une application console conçue pour télécharge
 Telecharger al derniere version :
 
 ```bash
-
+  https://github.com/danbenba/FortniteDownloader/releases/tag/Laste
 ```
 
 Executer le .exe 
