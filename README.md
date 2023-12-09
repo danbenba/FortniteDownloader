@@ -22,21 +22,21 @@ Le Téléchargeur Fortnite est une application console conçue pour télécharge
 
 Clonez le dépôt sur votre machine locale :
 
-\```bash
+```bash
 git clone https://github.com/[VotreNomUtilisateur]/FortniteDownloader.git
-\```
+```
 
 Naviguez jusqu'au répertoire cloné :
 
-\```bash
+```bash
 cd FortniteDownloader
-\```
+```
 
 Exécutez l'application :
 
-\```bash
+```bash
 dotnet run
-\```
+```
 
 ### Utilisation
 
